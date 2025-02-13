@@ -8,7 +8,7 @@ public class Act1_Arithmetic_Operators {
         int numb1 = 10;
         int numb2 = 6;
         int numb3 = 4;
-        int numb4 = 3;
+        int numb4 = 3; 
         
         
         
